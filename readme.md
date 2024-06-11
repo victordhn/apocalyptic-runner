@@ -5,5 +5,4 @@
 * Estado atual do progresso (100%)
 * Projeto finalizado, jogo completo
 
-<img src="progress/image_2.png" alt="Actual Progress State" style="width:70%;">
-<img src="progress/image_3.png" alt="Actual Progress State" style="width:70%;">
+<img src="progress/gif_game.gif" alt="Actual Progress State" style="width:70%;">
